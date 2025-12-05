@@ -1,2 +1,2 @@
-# projeto
-projeto FS49
+
+Projeto Diigtal Store
